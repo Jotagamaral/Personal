@@ -81,14 +81,6 @@ footer {
     opacity: 1;
 }
 
-.show {
-    opacity: 0;
-} 
-
-
-
-
-
 .button2 {
     display: inline-block;
     transition: all 0.2s ease-in;
